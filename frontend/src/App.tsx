@@ -5,11 +5,12 @@ import SalesCard from "./components/SalesCard"
 function App() {
   return (
     <>
+
       <Header />
       <SalesCard />
 
-    </>
 
+    </>
   )
 }
 

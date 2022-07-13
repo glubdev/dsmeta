@@ -5,10 +5,9 @@ import SalesCard from "./components/SalesCard"
 function App() {
   return (
     <>
-      <Header/>
-      <SalesCard/>
-      <NotificationButton />
-      <NotificationButton />
+      <Header />
+      <SalesCard />
+
     </>
 
   )
